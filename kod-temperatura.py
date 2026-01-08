@@ -8,4 +8,4 @@ elif temp[-1].upper() == "F":
     c = (5*(f-32)) / 9
     print("%.0f F po przeliczeniu to %.0f C" %(f,c))
 else :
-    print("Nieprawidłowy zapis")
+    print("Nieprawidłowy zapis, spróbój ponownie.")
